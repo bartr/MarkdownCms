@@ -6,15 +6,12 @@ Markdown CMS is a library that let's you use GitHub hosted markdown files in you
 
 ## Quick Start
 
-- Clone this repo
-- `dotnet run`
+- Create a Codespace
+- From the terminal window type `dotnet run`
 
 ## Install MarkdownCms from Nuget
 
 - `dotnet add package MarkdownCms --version 0.1.0`
-
-## Use MarkdownCms
-
 - `using MarkdownCms;`
 
 ## Set Repo Information
