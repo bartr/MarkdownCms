@@ -84,7 +84,7 @@ If your markdown files are not standardized, you will get a lot of render and na
 
 ## Install MarkdownCms from Nuget
 
-- `dotnet add package MarkdownCms --version 0.1.0`
+- `dotnet add package MarkdownCms --version 0.1.1`
 
 Open Program.cs for an example
 
